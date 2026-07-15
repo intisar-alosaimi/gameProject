@@ -34,7 +34,7 @@ npx http-server .
 
 Originally built by:
 
-- **[Intisar Alosaimi](https://github.com/EntisarOsiami)**
+- **[Intisar Alosaimi](https://github.com/intisar-alosaimi)**
 - **[Saad F. Alzarea](https://github.com/SaadAlzarea)**
 - **[khaled almutairi](https://github.com/g39g1)**
 - **[shahad0000](https://github.com/shahad0000)**
